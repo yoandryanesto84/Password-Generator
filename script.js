@@ -27,7 +27,7 @@ var passWordCriteria = function(){
   return userChoise;
 }
 
-function randemize(array){
+function randomize(array){
 var randonIndex = Math.floor(Math.random() * array.lenght);
 var indexValue = array[randonIndex];
 return indexValue;
@@ -52,9 +52,10 @@ function generatePassword(){
   console.log(possibleCharacter );
 
   for(var i = 0; i < userAnswer.passwordLength; i++){
-    // var randomCharacter = randemize (possibleCharacter);
-    finalPassword.push(randemize (possibleCharacter));
+    var randomCharacter = randomize (possibleCharacter);
+    finalPassword.push(randomize (possibleCharacter));
   }
+  return finalPassword.join("");
   console.log(finalPassword);
 }
 
