@@ -33,8 +33,10 @@ The following image shows the web appearance when it is excecuted:
 https://yoandryanesto84.github.io/Password-Generator/
 
 
+
 ## Repository address:
 https://github.com/yoandryanesto84/Password-Generator
 
 
-## Screen Shot 
+## Screen Shot:
+![Password Generator ](https://user-images.githubusercontent.com/109438671/192419608-28dd98ec-7b66-49e1-98e3-55940e9f2ffa.png)
