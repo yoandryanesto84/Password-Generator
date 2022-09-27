@@ -1,16 +1,8 @@
-
 # Password-Generator
-## User Story
 
-```
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
-```
 
 ## Acceptance Criteria
 
-```
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
@@ -41,4 +33,3 @@ https://github.com/yoandryanesto84/Password-Generator
 
 ## Screen Shot:
 ![Password Generator ](https://user-images.githubusercontent.com/109438671/192419812-b0c8d983-f5a2-425b-8d69-1b1071fe4460.png)
-
