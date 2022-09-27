@@ -25,3 +25,14 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+
+## Mock-up
+
+The following image shows the web appearance when it is excecuted:
+
+
+## Repository address 
+https://github.com/yoandryanesto84/Portfolio
+
+## Screen Shot 
