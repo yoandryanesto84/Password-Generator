@@ -1,3 +1,4 @@
+
 # Password-Generator
 ## User Story
 
@@ -29,7 +30,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Mock-up
 
-The following image shows the web appearance when it is excecuted:
+The following image shows the web appearance when it is executed:
 https://yoandryanesto84.github.io/Password-Generator/
 
 
