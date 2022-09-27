@@ -39,4 +39,5 @@ https://github.com/yoandryanesto84/Password-Generator
 
 
 ## Screen Shot:
-![Password Generator ](https://user-images.githubusercontent.com/109438671/192419608-28dd98ec-7b66-49e1-98e3-55940e9f2ffa.png)
+![Password Generator ](https://user-images.githubusercontent.com/109438671/192419812-b0c8d983-f5a2-425b-8d69-1b1071fe4460.png)
+
